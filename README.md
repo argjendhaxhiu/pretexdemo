@@ -34,3 +34,5 @@ npm run preview
 
 - Vite base path is configured as `/pretexdemo/` in `vite.config.ts`.
 - Main app logic lives in `src/main.ts`.
+
+..
