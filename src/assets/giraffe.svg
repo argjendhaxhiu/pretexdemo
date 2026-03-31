@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 520" width="320" height="520">
+  <!-- Side-view silhouette: head, ear, neck, shoulder  for contour text wrap -->
+  <path
+    fill="#0d0a08"
+    d="M 168 6
+       C 218 2 258 42 252 98
+       C 248 128 232 152 208 168
+       L 202 238
+       C 278 252 308 318 298 388
+       L 288 498
+       L 188 512
+       L 172 392
+       C 128 382 92 348 78 298
+       C 64 248 88 208 138 192
+       L 132 158
+       C 72 172 28 232 18 308
+       L 4 478
+       L 86 492
+       L 98 328
+       C 108 268 148 222 198 208
+       L 198 118
+       C 168 72 148 38 168 6 Z"
+  />
+</svg>

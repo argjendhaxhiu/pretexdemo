@@ -1,0 +1,15 @@
+{
+  "hash": "f080642d",
+  "configHash": "29d1ec86",
+  "lockfileHash": "4dfb57d2",
+  "browserHash": "1822ee0f",
+  "optimized": {
+    "@chenglou/pretext": {
+      "src": "../../node_modules/@chenglou/pretext/dist/layout.js",
+      "file": "@chenglou_pretext.js",
+      "fileHash": "9301a0fe",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
